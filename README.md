@@ -8,7 +8,7 @@
 - application : all the generic modules which will be used by all activities.
 - model : all the POJO classes 
 
-# screens : each screen is separate child package.
+- screens : each screen is separate child package.
 - Each screen child package is divided into:- 
 - 1)core : MVP classes
 - 2)dagger : Dependency Injection classes
