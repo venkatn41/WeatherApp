@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="today_string">Today Weather at</string>
+    <string name="missing_forecast">"Hourly Forecast for the selected day is not present in the response from API"</string>
+    <string name="get_10days_forecast">"get next 10 day's forecast"</string>
+    <string name="check_connection">"No Internet Connection. Check settings and enable internet</string>
+    <string name="loading_weather">"Loading weather for current location</string>
+</resources>
