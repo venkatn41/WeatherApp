@@ -1,7 +1,7 @@
 # WeatherApp
 ###### Simple weather app.
 
-# Followed MVP pattern using Retrofit, Dagger2, RxJava2, Butterknife.
+# MVP pattern using Retrofit, Dagger2, RxJava2.
 
 # Packages breakdown :
 
