@@ -23,5 +23,5 @@
       
       2. dagger : Dependency Injection classes
       
-      3. Activity/fragment
+      
         
